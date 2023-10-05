@@ -13,8 +13,9 @@ Le scénario vous amène à parcourir un monde où les coffres ne vous offrent p
 
 **Achats :**Le jeu est assez léger (50 Mo sur iOS, 40 sur Android). Il est classé tout public. Il est compatible avec iOS 5.1.1 (ou supérieur) et Android 2.2 (et suivants). Il est payant, sans achat intégré, et coûte 5 euros sur l’App Store et 4,5 euros sur le Play Store (Apple a répercuté la hausse de la TVA et la baisse de l’euro face au dollar). Et il est presque trop court tellement il est bon. Si vous êtes frustré, sachez qu’un deuxième opus est en cours de développement chez Shiro Games, le studio à l’origine du jeu. Il devrait sortir dans un premier temps sur PC (sur Steam logiquement) avant d’arriver sur mobile.
 
-**Steam :** https://store.steampowered.com/app/233470/Evoland/?l=french
-**Google Play :** https://play.google.com/store/apps/details?id=air.com.shirogames.evoland12&hl=fr&gl=US&pli=1
+- **Steam :** https://store.steampowered.com/app/233470/Evoland/?l=french
+
+- **Google Play :** https://play.google.com/store/apps/details?id=air.com.shirogames.evoland12&hl=fr&gl=US&pli=1
 
 
 ## Evoland 2
