@@ -1,6 +1,6 @@
-# Evoland 1 & 2
+# Evoland & Evoland 2 : L'évolution du jeu de rôle
 
-Ce dépôt Git est dédié aux jeux "Evoland" et "Evoland 2", deux Jeux que j'ai adoré qui vous emmènent à travers l'évolution des jeux de rôle. Voici quelques informations importantes à leur sujet :
+Evoland 1 et 2 sont des jeux de rôle qui offrent une aventure unique en explorant l'évolution des jeux vidéo, passant des graphismes 2D monochromes aux environnements 3D détaillés. Dans Evoland 1, les joueurs incarnent Clink et parcourent un monde en constante transformation pour sauver une princesse. Evoland 2 lui poursuit l'aventure en proposant une expérience plus complexe avec des époques différentes et une histoire captivante. Ces 2 jeux combinent habilement l'histoire, la nostalgie et l'évolution des jeux vidéo dans une expérience immersive.
 
 ## Evoland
 
