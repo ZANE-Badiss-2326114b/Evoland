@@ -30,6 +30,8 @@ Le scénario vous amène à parcourir un monde où les coffres ne vous offrent p
 
 **Description :** Evoland 2 est la suite du jeu original, offrant une expérience encore plus riche et variée. Vous explorerez différentes époques, rencontrerez de nouveaux personnages et découvrirez une histoire complexe et captivante.
 
+![Evoland](evoland-2.jpg)
+
 **Histoire :** L'histoire d'Evoland 2 se déroule dans un monde où le voyage dans le temps est possible. Le protagoniste, nommé Kuro, se réveille sans aucun souvenir de son passé, mais il est rapidement rejoint par un mystérieux acolyte nommé Fina. Ensemble, ils se lancent dans une aventure qui les emmène à travers différentes époques, de l'ère médiévale aux temps modernes et même au-delà.
 
 Au cours de leur voyage, Kuro et Fina découvrent que le continuum espace-temps est en danger en raison de perturbations temporelles. Ils doivent rassembler des artefacts et résoudre des énigmes pour rétablir l'équilibre temporel et empêcher une catastrophe qui menace de détruire le monde.
